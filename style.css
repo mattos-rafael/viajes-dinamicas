@@ -1,0 +1,34 @@
+header {
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  color: white;
+}
+
+.content {
+  margin-left: 20rem;
+  margin-right: 20rem;
+}
+
+.suggestions {
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+}
+
+
+#articles {
+  display: flex;
+  justify-content: space-between;
+}
+
+#destinos {
+  display:  flex;
+  flex-direction: column;
+}
+
+#welcome {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+}
