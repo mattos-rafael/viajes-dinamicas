@@ -13,13 +13,14 @@ header {
 .suggestions {
   display: flex;
   flex-direction: column;
-  max-width: 400px;
+  
 }
 
 
 #articles {
   display: flex;
   justify-content: space-between;
+  gap: 40px;
 }
 
 #destinos {
